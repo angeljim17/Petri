@@ -2,6 +2,7 @@
 **La carpeta que dice segunda parte corresponde a la solución de la parte 2 de Petri**
 
 Angel Jiménez Morales - A01735807
+
 Rosa Nelly Herrera Alonso - A01739355
 
 **REFLEXIONES**
